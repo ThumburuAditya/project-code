@@ -1,11 +1,3 @@
-@Library('roboshop') _
-
-env.component="catalogue"
-
-env.schema_dir='schema'
+@Library('project') _
 
 nodejs()
-
-//for checking dns record for webhook
-
-// for checking tag
